@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeadEye</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview_amazon_prices">"Amazon: $%1$s  Lowest: $%2$s</string>
+</resources>
